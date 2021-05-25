@@ -18,15 +18,15 @@
 
 **Результат**
 
-- Ожидаемый:
+Ожидаемый:
 Сумма = 2500000000
 
-- Фактический:
+Фактический:
 Сумма = -1794967296
 
 **Cкриншот ошибки**
 
-- [Скриншот](https://docs.google.com/document/d/12Vta0wKbfrm4tAvroh60TW8WIM42Y4-ANWkWukE1y9A/edit?usp=sharing)
+![Скриншот](https://docs.google.com/document/d/12Vta0wKbfrm4tAvroh60TW8WIM42Y4-ANWkWukE1y9A/edit?usp=sharing)
 
 **Окружение**
 
