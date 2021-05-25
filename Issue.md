@@ -9,9 +9,9 @@
 3. Создать ClassMain
 4. Переменная 
 
-- int balance = 2_000_000_000;
-- int transferSum = 500_000_000;
-- int totalVa = balanse + transferSum;
+<pre><code>int balance = 2_000_000_000;
+int transferSum = 500_000_000;
+int totalVa = balanse + transferSum;</code></pre>
 
 5. Команда для вывода результата System.out.printLn
 6. Запустить метод Ctrl+Shift+F10
