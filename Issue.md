@@ -1,3 +1,5 @@
+**При сложении двух переменных получается отрицательный результат**
+
 **Материалы для тестирования** 
 
 -[ Домашнее задание](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
