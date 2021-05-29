@@ -6,7 +6,7 @@
 **В результате тестирования выявлены следующие дефекты:**
 
 Ожидаемый результат не сходится с фактическим
-[Скриншот](https://docs.google.com/document/d/12Vta0wKbfrm4tAvroh60TW8WIM42Y4-ANWkWukE1y9A/edit)
+![Скриншот](https://github.com/MashaOsipova/Java1.2.1/blob/b863fb62b8203e611a1823a5645e144980784921/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0.png)
 
 **В процессе тестирования использовались следующие артефакты:** 
 
