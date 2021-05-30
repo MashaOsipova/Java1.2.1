@@ -7,7 +7,7 @@
 
 Ожидаемый результат не сходится с фактическим
 
-[Issue](https://github.com/MashaOsipova/Java1.2.1/blob/a9b09b136dc5d49e54355a124787ee99248fdd61/Issue.md)
+[Issue](https://github.com/MashaOsipova/Java1.2.1/issues/2#issue-807943531)
 
 **В процессе тестирования использовались следующие артефакты:** 
 
